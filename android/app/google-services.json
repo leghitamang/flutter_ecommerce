@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844184497402",
+    "firebase_url": "https://thaiproducts-66845.firebaseio.com",
+    "project_id": "thaiproducts-66845",
+    "storage_bucket": "thaiproducts-66845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844184497402:android:0b2f6bddb7afc342622d43",
+        "android_client_info": {
+          "package_name": "com.example.thai_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844184497402-o1gaocmh0a3ona1lfavhabs4ic93nu35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thai_products",
+            "certificate_hash": "da6466d7c949ef0b0741f183d04fe9dcc135810e"
+          }
+        },
+        {
+          "client_id": "844184497402-ua9cd1r2ti3cvtoi85kv7j1sgsvb19lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tbXLIPTeiQXP0dC-P2t31qCXZjYbeLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844184497402-ua9cd1r2ti3cvtoi85kv7j1sgsvb19lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
